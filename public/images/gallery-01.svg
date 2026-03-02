@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Nuvic Library 1">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6a62ff"/>
+      <stop offset="100%" stop-color="#4b3eb0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <circle cx="1300" cy="180" r="220" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="260" cy="740" r="260" fill="rgba(255,255,255,0.1)"/>
+  <text x="80" y="820" fill="white" font-size="54" font-family="Inter,Arial,sans-serif" font-weight="700">Nuvic Library 1</text>
+</svg>
